@@ -19,9 +19,12 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.21.0",
+    "dist": "^0.1.2",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.14.2"
+    "node": "^21.6.2",
+    "simplelightbox": "^2.14.2",
+    "undefined": "^0.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
