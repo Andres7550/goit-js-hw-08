@@ -537,7 +537,7 @@ document.addEventListener("keydown", (event)=>{
     if (event.code === "Escape") lightbox.close();
 });
 
-},{"./gallery-items":"9C7dK","simplelightbox":"9ydBq","simplelightbox/dist/simple-lightbox.min.css":"kaxSc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"9C7dK":[function(require,module,exports) {
+},{"./gallery-items":"9C7dK","simplelightbox/dist/simple-lightbox.min.css":"kaxSc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","simplelightbox":"9ydBq"}],"9C7dK":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "galleryItems", ()=>galleryItems);
@@ -619,7 +619,7 @@ exports.export = function(dest, destName, get) {
     });
 };
 
-},{}],"9ydBq":[function(require,module,exports) {
+},{}],"kaxSc":[function() {},{}],"9ydBq":[function(require,module,exports) {
 /*!
 	By André Rinas, www.andrerinas.de
 	Documentation, www.simplelightbox.com
@@ -2131,6 +2131,6 @@ var _default = SimpleLightbox;
 exports["default"] = _default;
 global.SimpleLightbox = SimpleLightbox;
 
-},{}],"kaxSc":[function() {},{}]},["8EXaa","6XVkV"], "6XVkV", "parcelRequired7c6")
+},{}]},["8EXaa","6XVkV"], "6XVkV", "parcelRequired7c6")
 
 //# sourceMappingURL=01-gallery.53390864.js.map
